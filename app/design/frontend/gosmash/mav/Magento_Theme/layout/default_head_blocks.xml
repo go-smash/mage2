@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../../vendor/magento/framework/Module/etc/module.xsd">
+	<head>
+	    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no"/>
+
+	    <css src="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" src_type="url"/>
+	    <css src="//fonts.googleapis.com/css?family=Montserrat:400,700" src_type="url"/>
+	    <css src="//fonts.googleapis.com/css?family=Roboto:400,100,300,500,700,900" src_type="url"/>
+	    <css src="css/custom.css" />
+
+		<script src="js/custom.js" />
+	</head>
+</page>

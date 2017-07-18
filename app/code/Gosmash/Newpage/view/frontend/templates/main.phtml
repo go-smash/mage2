@@ -1,0 +1,6 @@
+<p><?= 'Hello world!' ?></p>
+
+<?php foreach ($block->getProductCollection() as $product) : ?>
+    <!-- do something with $product -->
+    <?php var_dump($product); ?>
+<?php endforeach;?>

@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../../vendor/magento/framework/Module/etc/module.xsd">
+    <head>
+
+        <!-- Remove blank/luma theme styling if you declared a parent -->
+        <remove src="css/styles-m.css" />
+        <remove src="css/styles-l.css" />
+        <remove src="css/print.css" />
+
+
+        <link href='https://fonts.googleapis.com/css?family=Lato:400,700,300|Open+Sans:400,600,700,300' rel='stylesheet' type='text/css'/>
+        <css src="css/bootstrap.min.css"/>
+        <css src="css/font-awesome.min.css"/>
+        <css src="css/animate.css"/>
+        <css src="css/style.css"/>
+
+        <script src="js/jquery.min.js"/>
+        <script src="js/jquery.easing.min.js"/>
+        <script src="js/bootstrap.min.js"/>
+        <script src="js/wow.js"/>
+        <script src="js/custom.js"/>
+        <script src="contactform/contactform.js"/>
+    </head>
+</page>
